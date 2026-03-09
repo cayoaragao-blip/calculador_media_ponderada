@@ -15,4 +15,3 @@ Pré-requisitos:
 Python instalado;
 Git;
 Gerenciador de pacotes (pip);
->>>>>>> 70f4aea0d9017afcc0a19160fddaf6cd3002db40
