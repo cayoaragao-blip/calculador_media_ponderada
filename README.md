@@ -1,8 +1,5 @@
-CALCULADOR DE MÉDIA PONDERADA
-Este código contém uma função que recebe as notas das máterias, e, com base nos pesos individuais de cada matéria é calculada a média ponderada do aluno. O resultado é arredondado para 2 dígitos após a casa decimal;
+Calculador de Média Ponderada: Este projeto consiste em uma função Python desenvolvida para automatizar o cálculo de médias escolares. O script recebe as notas e seus respectivos pesos, retornando a média final arredondada para duas casas decimais;
 
+🛠️ Tecnologias e Conceitos: Python 3.x; Lógica Matemática - Cálculo de média ponderada📋
 
-PRÉ-REQUISITOS
-Python instalado;
-Git;
-Gerenciador de pacotes(pip);
+Pré-requisitos: Python instalado; Git; Gerenciador de pacotes (pip);
