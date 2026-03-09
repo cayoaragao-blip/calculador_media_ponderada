@@ -22,6 +22,7 @@ while r == "sim":
 # Exibindo as matérias adicionadas, juntamente com seus respectivos pesos e notas     
 n = 0
 while n < len(materias):
+        print("==================================================================")
         for materia, (nota, peso) in materias.items():
             n += 1
             print(f"Matéria: {materia}, Nota: {nota}, Peso: {peso}")
