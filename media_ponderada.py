@@ -1,5 +1,3 @@
-# Media ponderada
-
 materias = {}
 
 
